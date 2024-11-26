@@ -1,4 +1,4 @@
-# Solace AI Event Connector
+# Solace AI Event Connector Test
 
 ## Overview
 
